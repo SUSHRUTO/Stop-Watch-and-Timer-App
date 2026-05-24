@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html,
+body,
+#root{
+height:100%;
+margin:0;
+padding:0;
+}
+
+body{
+font-family:Inter,sans-serif;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+-webkit-appearance:none;
+margin:0;
+}
+
+input[type="number"]{
+appearance:textfield;
+-webkit-appearance:none;
+-moz-appearance:textfield;
+}
