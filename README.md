@@ -4,11 +4,8 @@ A modern and interactive Stopwatch & Timer application built using **React**, **
 
 ## 🚀 Live Demo
 
-🔗 Live Link: [Add your deployed link here]
+🔗 Live Link: https://stop-watch-and-timer-app.vercel.app/
 
-## 📂 GitHub Repository
-
-🔗 Repository Link: [Add your GitHub repository link here]
 
 ---
 
@@ -70,7 +67,7 @@ The project focuses on accurate time handling, user interaction, clean state man
 ## 📁 Project Structure
 
 ```bash
-stopwatch-timer-app
+stop-watch-and-timer-app
 │
 ├── public/
 │
@@ -91,7 +88,7 @@ stopwatch-timer-app
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/SUSHRUTO/Stop-Watch-and-Timer-App
 ```
 
 Navigate into project directory:
@@ -149,11 +146,6 @@ pnpm preview
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here after deployment.
-
----
 
 ## 👨‍💻 Author
 
